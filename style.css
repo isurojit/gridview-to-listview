@@ -1,0 +1,9 @@
+button:hover, button:focus{
+    outline: none;
+}
+button:hover{
+    background-color: rgba(233, 114, 114, 0.856);
+}
+button:active{
+    background-color: green;
+}
